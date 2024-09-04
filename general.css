@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'poppins';
+}
+
+main {
+    display: flex;
+    justify-content: space-between;
+}
+
+a {
+    color: black;
+    font-weight: 500;
+}
